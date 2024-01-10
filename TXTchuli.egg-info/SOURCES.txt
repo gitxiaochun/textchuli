@@ -1,0 +1,11 @@
+setup.py
+TXTchuli/TXTP.py
+TXTchuli/__init__.py
+TXTchuli/ku.py
+TXTchuli/tu.py
+TXTchuli/yuyin.py
+TXTchuli.egg-info/PKG-INFO
+TXTchuli.egg-info/SOURCES.txt
+TXTchuli.egg-info/dependency_links.txt
+TXTchuli.egg-info/requires.txt
+TXTchuli.egg-info/top_level.txt
